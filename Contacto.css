@@ -1,0 +1,192 @@
+
+*{
+    margin: 0%;
+    padding:0%;
+    }
+    body{
+        background: rgb(147, 194, 191);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .contenedor{
+        width: 90%;
+        margin: 10px auto;
+    }
+    header{
+        width: 100%;
+        height: 120px;
+        border: 2px solid;
+        background: rgb(223, 172, 4);
+        color: black;
+        border-radius: 10px 10px 0 0;
+    }
+    .Fotologo{
+        margin: 10Px;
+        float: left;
+        position: relative;
+       
+       
+    }
+    .Titulo{
+        margin: 15px;
+        font-size: 30px;
+        float: left;
+    }
+    .Titulo2{
+        margin: -10px 0 0 0;
+        font-size: 20px;
+        float:top;
+    }
+  
+    .inicio{
+        margin: 30px 0px 0px 200px;
+        font-size: 20px;
+        font-size: 20px;
+        float: left;
+        color: blue;
+    }
+    .inicio a{
+        padding: 5px;
+    }
+    nav{
+        width: 100%;
+        height: 40px;
+        border: 3px solid;
+        background: rgb(223, 172, 4);
+        color: white;
+        float: left;
+        margin: 5px 0 0 0;
+    }
+    .Navegacion{
+        background:rgb(7, 7, 7);
+        overflow: hidden;
+    }
+    .Navegacion li{
+        float: left;
+        list-style: none;
+    }
+    .Navegacion li a{
+       color: white;
+       padding: 10px;
+       text-decoration: none;
+        display: block;
+    }
+    
+    .Navegacion li a :hover{
+        color:white;
+        background: greenyellow;
+        border-radius: 10px;
+     }
+     .Lateral{
+       margin: 1px;
+       padding: 7px;
+        float: left;
+     }
+    
+    section{
+        width: 100%;
+        height: 750px;
+        border: 3px solid;
+        background:rgb(223, 172, 4);
+        color:white ;
+        float: left;
+        margin: 5px 0 0 0;
+        text-align: center;
+    }
+    section h2{
+        font-size: 70px;
+        color: rgb(84, 78, 78);
+    }
+    section h3{
+        font-size: 30px;
+        color: yellow;       
+        margin: -60px 0 70px 0;
+    }
+    p{
+        font-size: 15px;
+    }
+   
+    .contenedorlogos{
+        padding: 5px;
+            width: 45%;
+            height: 75%;
+            text-align: center;
+            float: left;
+            border: 2px solid;
+            color:white;
+            margin: 15px;  
+            background: rgb(198, 131, 7);
+    }
+    .contenedorlogos h2{
+        text-align: center;
+        font-size: 40px;
+        align-content:center
+    }
+    .contenedorlogos img{
+              
+       padding: 5px;
+       display: block; 
+       margin: auto;
+      
+       
+        
+    }
+    .contenedorlogos li{
+    list-style: none;
+    display: inline-block;
+    padding: 40px 0px 0px 0px;
+    }
+    .contenedorlogos li a :hover{
+    color:white;
+    background: greenyellow;
+    border-radius: 10px;
+     }
+        .formulario{
+            padding: 5px;
+            width: 45%;
+            height: 75%;
+            text-align: justify;
+            float: left;
+            border: 2px solid;
+            color:white;
+            margin: 15px; 
+            background:  rgb(198, 131, 7);  
+            
+            }
+            .mensajes{
+                height: 150px;
+                width: 80%;
+             
+            }
+            
+    .contenedorseccion p{
+        font-size: 15px;
+        margin: 5px;
+        text-align:justify;
+        float: right;
+    }
+    .contenedorlogos h3{
+        text-align:center;
+    margin: 150px 0px 0px 0px;
+    font-size: 15px;
+    color: white;
+    }
+    
+    
+    footer{
+        width: 100%;
+        height: 80px;
+        border: 2px solid;
+        background: rgb(83, 75, 75);
+        color: white;
+        float: left;
+        border-radius: 0px 0px 10px 10px;
+        text-align: center;
+    }
+    .Piepagina p{
+        text-align: center;
+        padding: 2px;
+        color: white;
+    }
+    
+    
+    
